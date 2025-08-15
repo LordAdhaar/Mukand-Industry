@@ -1,0 +1,7 @@
+.performance-driven-text {
+  background: linear-gradient(to right, #A5B4FC, #C7D2FE);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}

@@ -1,0 +1,224 @@
+{
+  "mukand_industries_faq": {
+    "sections": [
+      {
+        "section": "General Questions",
+        "faqs": [
+          {
+            "question": "How do I contact someone directly for assistance?",
+            "answer": "You can reach our team via email at outreach@mukundindustries.com or call us at +91 84268 76625 between 10 AM and 6 PM IST, Monday to Saturday. For quicker responses, you can also use our website's contact form or WhatsApp option if available."
+          },
+          {
+            "question": "Can I track my order status?",
+            "answer": "Yes. Once your order is dispatched, we'll provide you with transporter details and tracking links wherever available. For local dispatches, our team will coordinate with you directly for delivery updates."
+          },
+          {
+            "question": "Are you ISO-certified or MSME-registered?",
+            "answer": "Yes. Mukand Industries is ISO 9001:2015 certified and registered as a recognized MSME. We can provide necessary certificates and government registration details as part of our onboarding or vendor approval process."
+          },
+          {
+            "question": "Do you export internationally?",
+            "answer": "Yes, we currently export to select clients in the UAE and Southeast Asia. Our export-ready packaging is compliant with regional requirements and comes with proper documentation for customs clearance."
+          },
+          {
+            "question": "Can I visit your factory before placing an order?",
+            "answer": "Absolutely. We welcome prospective clients to tour our facility in Panchkula, Haryana. Visits are by appointment only. Please reach out via email to schedule."
+          },
+          {
+            "question": "What industries do you typically serve?",
+            "answer": "Our primary client base includes FMCG brands, pharma companies, exporters, textile manufacturers, and packaging distributors. We also serve smaller D2C and B2B startups scaling their supply chain."
+          },
+          {
+            "question": "Do you manufacture your own raw materials?",
+            "answer": "While we produce finished packaging materials in-house, we source certified raw films, kraft board, adhesives, and inks from verified suppliers to maintain quality and consistency across all product lines."
+          }
+        ]
+      },
+      {
+        "section": "Ordering & MOQ",
+        "faqs": [
+          {
+            "question": "What is the minimum order quantity (MOQ)?",
+            "answer": "Our standard MOQs are as follows: 250 kg for stretch film, 300 kg for laminated rolls, and 500 units for paper cores. For repeat clients or pilot projects, we may offer flexibility based on production load and material availability."
+          },
+          {
+            "question": "Can I customize the quantity based on project size?",
+            "answer": "Yes. For long-term or recurring clients, we allow customized batch sizes based on overall annual volume commitments. We also support phased dispatches upon request."
+          },
+          {
+            "question": "Do you offer bulk discounts?",
+            "answer": "Yes. Our pricing scales with volume. We offer slab-based discounts, and higher savings apply to consolidated monthly or quarterly orders. Connect with our sales team to receive a custom quote."
+          },
+          {
+            "question": "Can I split an order into multiple dispatches?",
+            "answer": "Yes. We can accommodate staggered deliveries as per your warehouse capacity or inventory cycles. Please mention dispatch schedule preferences when placing the order."
+          },
+          {
+            "question": "How do I place a repeat order?",
+            "answer": "You can either refer to your previous order ID or speak directly with your account manager. We maintain client profiles, making repeat orders quick and seamless."
+          },
+          {
+            "question": "Can you provide estimates before confirming?",
+            "answer": "Yes. We provide quick, obligation-free quotes based on product type, quantity, print/design requirements, and destination. Share your specs and we'll respond within 24 hours."
+          },
+          {
+            "question": "How long does the quotation process take?",
+            "answer": "For standard SKUs, we typically respond within 12–24 working hours. Custom printed or specialty jobs may take 48–72 hours based on dieline approval and material configuration."
+          },
+          {
+            "question": "Can I cancel or modify my order after payment?",
+            "answer": "Cancellations or modifications are only accepted within 24 hours of order confirmation for non-printed stock. Printed/custom jobs can't be cancelled after pre-press approval and material allocation. Please speak with our team for exceptions."
+          }
+        ]
+      },
+      {
+        "section": "Payment & Terms",
+        "faqs": [
+          {
+            "question": "What payment methods do you accept?",
+            "answer": "We accept NEFT, RTGS, IMPS, UPI, and bank transfers for domestic clients. International payments can be arranged via SWIFT. We also accept cheque payments for recurring or contract-based clients with cleared terms."
+          },
+          {
+            "question": "What's your policy on returns or damaged goods?",
+            "answer": "If goods are received damaged, incorrect, or defective, you must notify us within 72 hours of delivery along with photographic or video evidence. After verification, we may offer a replacement, credit note, or refund depending on the case."
+          },
+          {
+            "question": "Is there any warranty on packaging material?",
+            "answer": "While we don't offer a formal product warranty, our products are batch-tested before dispatch. If you face any performance issues during application or usage, we investigate and resolve the matter promptly."
+          },
+          {
+            "question": "Do you offer credit terms to recurring clients?",
+            "answer": "Yes. After an initial evaluation period and consistent transactions, we may offer 15 to 30-day credit terms to recurring clients. A formal agreement and credit limit is set up accordingly."
+          },
+          {
+            "question": "Are GST invoices and certificates included by default?",
+            "answer": "Yes. All dispatches are accompanied by GST-compliant tax invoices. We can also share MSME certificates, ISO documents, and HSN code declarations upon request."
+          },
+          {
+            "question": "Can I pay in foreign currency for export orders?",
+            "answer": "Yes. For export orders, we accept USD, AED, and EUR payments via wire transfer or LC depending on the size and destination. Speak to our export desk for trade terms and documentation."
+          },
+          {
+            "question": "Will I get an order summary and invoice before dispatch?",
+            "answer": "Yes. Once your order is finalized, we send a formal Proforma Invoice (PI) with detailed product breakdown, taxes, and delivery terms. Final invoice is shared on dispatch day."
+          },
+          {
+            "question": "What if I paid but didn't receive a confirmation?",
+            "answer": "If your payment was processed but no order confirmation was received within 24 hours, please email outreach@mukundindustries.com with your payment proof. Our finance team will reconcile and respond promptly."
+          }
+        ]
+      },
+      {
+        "section": "Products & Customization",
+        "faqs": [
+          {
+            "question": "Do you offer custom sizes or printed packaging?",
+            "answer": "Yes. We offer fully customizable stretch films, laminated rolls, and paper cores tailored to your operational requirements. You can choose roll width, thickness, core diameter, and finish type. For printed laminates, we require dielines or final artwork, and we support up to 8-color rotogravure printing."
+          },
+          {
+            "question": "Are samples available before I place a bulk order?",
+            "answer": "Yes. We provide pre-production samples or plain material samples depending on the product category. This allows you to test compatibility with your filling line, wrapping machine, or brand visuals before committing to a full production run."
+          },
+          {
+            "question": "Do your packaging materials meet food or pharma compliance?",
+            "answer": "Yes. Our laminated films and stretch films are manufactured using food-grade inputs and meet FSSAI and ISO 9001 standards. We can provide migration reports, batch-level test certificates, and compliance documentation upon request, particularly for export-oriented shipments."
+          },
+          {
+            "question": "Can I get help with artwork for custom laminates?",
+            "answer": "Absolutely. While we expect final artwork from your team or agency, our pre-press team can help with dieline templates, print-safe adjustments, and color matching. If you need full creative services, we can connect you with trusted design partners."
+          },
+          {
+            "question": "What finishes or coatings are available for laminated rolls?",
+            "answer": "We offer matte, gloss, and soft-touch finishes as well as coatings like anti-fog, anti-static, and heat-seal layers depending on the structure. These are suitable for vertical form-fill-seal (VFFS) and pouching applications in food and pharma packaging."
+          },
+          {
+            "question": "Do you offer mono-material recyclable packaging?",
+            "answer": "Yes. In response to EPR regulations and sustainability demands, we've developed mono-material (PE-PE, BOPP-BOPP) laminates that are recyclable and compliant with local circularity frameworks. These are available with heat-seal or zipper compatibility."
+          },
+          {
+            "question": "What materials are your paper cores made of?",
+            "answer": "Our cores are made from high-compression kraft board and tested for concentricity, crush resistance, and moisture control. We offer spiral-wound and parallel-wound options in varying thicknesses to support different winding loads and widths."
+          },
+          {
+            "question": "Can I choose film stretch ratio or pre-stretch specs?",
+            "answer": "Yes. For stretch films, you can choose pre-stretched, machine-grade, or hand-wrap options with different elongation percentages (150%–300%). We tailor this based on your wrapping machine type, load weight, and throughput requirements."
+          }
+        ]
+      },
+      {
+        "section": "Quality & Compliance",
+        "faqs": [
+          {
+            "question": "Do you provide material or compliance certificates?",
+            "answer": "Yes. Upon request, we can provide a complete documentation pack including batch test reports, FSSAI compliance, ISO 9001 certification, BIS registration, and MSME documents. For export orders, we also include declarations and product specs required by customs or clients."
+          },
+          {
+            "question": "Is your packaging suitable for pharma and food exports?",
+            "answer": "Absolutely. Our materials are manufactured using food-grade inputs and undergo migration testing and compliance checks for pharma and edible contact packaging. We maintain strict batch-wise documentation and can share regulatory support for UAE, GCC, and Southeast Asian exports."
+          },
+          {
+            "question": "What quality checks do your products undergo?",
+            "answer": "Every order goes through a 3-stage quality control process: incoming material inspection, in-line production QC, and pre-dispatch verification. We check for gauge accuracy, seal strength, bonding performance, print registration, and roll uniformity."
+          },
+          {
+            "question": "Can I request a test report for a particular batch?",
+            "answer": "Yes. Batch-wise test reports can be generated for specific quality parameters like GSM, COF, tensile strength, elongation, and lamination bond. These reports are validated by our in-house QC lab and can be digitally shared with your compliance team."
+          },
+          {
+            "question": "Do you offer RoHS, REACH, or FSSAI compliant packaging?",
+            "answer": "We offer food-safe and FSSAI-compliant packaging by default. For large export projects, we can also manufacture packaging that adheres to RoHS or REACH standards upon request — subject to additional lead time and testing."
+          },
+          {
+            "question": "What happens if I receive defective material?",
+            "answer": "We ask clients to notify us within 72 hours of receipt with visual documentation. Once verified, we investigate the cause and issue a replacement, credit note, or re-run production depending on the case. Your account manager will coordinate the next steps swiftly."
+          },
+          {
+            "question": "Is your lamination food-safe and migration-tested?",
+            "answer": "Yes. Our laminated rolls are manufactured with food-grade adhesives and undergo regular migration testing as per BIS and EU standards. We can provide third-party validation if required for brand audits or export compliance."
+          },
+          {
+            "question": "How do you ensure gauge consistency in stretch films?",
+            "answer": "We use calibrated extrusion lines and in-line gauge monitoring to ensure film thickness stays within tolerance limits. Our rolls are tested for uniformity, and any deviation is corrected in real-time during the production cycle."
+          }
+        ]
+      },
+      {
+        "section": "Shipping & Delivery",
+        "faqs": [
+          {
+            "question": "Can you ship outside Punjab or pan-India?",
+            "answer": "Yes. We deliver across India including metro cities, industrial hubs, and remote zones via road transport or trusted logistics partners. If you require export-ready dispatch, we also offer delivery to ICDs or ports upon request."
+          },
+          {
+            "question": "What is the typical lead time for production & dispatch?",
+            "answer": "Lead times vary by product type and order volume. On average: stretch films are ready in 3–5 working days, laminated rolls in 7–10 days post artwork approval, and paper cores in 4–6 days. Our team confirms timelines at the time of order."
+          },
+          {
+            "question": "Who handles shipping costs?",
+            "answer": "Shipping is typically arranged on a 'freight prepaid' or 'freight collect' basis, depending on order size and destination. You can opt to use your preferred transporter or let us manage door delivery for added convenience."
+          },
+          {
+            "question": "Can I track my order status?",
+            "answer": "Yes. Once dispatched, we provide you with transport details, expected delivery time, and tracking information if available. For local dispatches, our dispatch team can coordinate updates via phone or WhatsApp."
+          },
+          {
+            "question": "Do you offer express or urgent dispatch?",
+            "answer": "Yes. We accommodate urgent dispatches for repeat or priority clients depending on available stock and line availability. Please speak with your account manager for feasibility."
+          },
+          {
+            "question": "What are your packing methods for shipping safety?",
+            "answer": "Products are shipped in shrink-wrapped rolls, packed in corrugated sleeves or palletized depending on weight and destination. All loads are tested for stacking strength and transit durability."
+          },
+          {
+            "question": "Do you use third-party logistics or in-house transport?",
+            "answer": "We operate a hybrid model. For local/regional deliveries, we often use trusted regional fleet partners. For national distribution and bulk movements, we rely on large-format transport and national logistics providers."
+          },
+          {
+            "question": "What happens if my shipment is delayed?",
+            "answer": "In rare cases of delay due to weather, strikes, or transport issues, we proactively inform clients and provide alternate delivery timelines. We maintain a buffer system in critical projects to minimize disruption."
+          }
+        ]
+      }
+    ]
+  }
+}
